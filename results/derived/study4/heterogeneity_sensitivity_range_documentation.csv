@@ -1,0 +1,4 @@
+"varied_component","held_components","grid","n_groups","mean_range_predicted_power_0.10","median_range_predicted_power_0.10","max_range_predicted_power_0.10","quantity_type","not_a_confidence_or_prediction_interval"
+"tau_plan","omega_plan,rho_plan","practical_tau_omega",480,0.563917092391697,0.613570834271554,0.912725189860671,"design_only_predicted_power_range",TRUE
+"omega_plan","tau_plan,rho_plan","practical_tau_omega",840,0.161817442957133,0.111437859424867,0.809288209812288,"design_only_predicted_power_range",TRUE
+"rho_plan","tau_plan,omega_plan","rho_sensitivity",840,0.0398526990764782,0.017852186953176,0.326282715388682,"design_only_predicted_power_range",TRUE

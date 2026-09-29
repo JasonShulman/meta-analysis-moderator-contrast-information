@@ -1,0 +1,19 @@
+"check","pass","detail","scenario_seed_root","expanded_candidate_pool","pair_candidate_seed"
+"n_broad",TRUE,"64",8252026,FALSE,8253026
+"I_C_S_low",TRUE,"n=22",8252026,FALSE,8253026
+"I_C_S_moderate",TRUE,"n=21",8252026,FALSE,8253026
+"I_C_S_high",TRUE,"n=21",8252026,FALSE,8253026
+"I_C_S_spread",TRUE,"p90_vs_p10_drel=1.732",8252026,FALSE,8253026
+"balanced_contrast",TRUE,"n_B_C_S>=0.80 = 33",8252026,FALSE,8253026
+"imbalanced_contrast",TRUE,"n_B_C_S<=0.50 = 8",8252026,FALSE,8253026
+"weak_cluster_support",TRUE,"n_low_tertile=22 min=1.836",8252026,FALSE,8253026
+"strong_cluster_support",TRUE,"n_high_tertile=21 max=50.953",8252026,FALSE,8253026
+"tau_low",TRUE,"n=23",8252026,FALSE,8253026
+"tau_medium",TRUE,"n=19",8252026,FALSE,8253026
+"tau_high",TRUE,"n=22",8252026,FALSE,8253026
+"omega_low",TRUE,"n=23",8252026,FALSE,8253026
+"omega_medium",TRUE,"n=18",8252026,FALSE,8253026
+"omega_high",TRUE,"n=23",8252026,FALSE,8253026
+"n_tau_gt_0.20_ge_12",TRUE,"n=22",8252026,FALSE,8253026
+"n_high_I_C_S_and_tau_ge_0.15_ge_12",TRUE,"n=12",8252026,FALSE,8253026
+"design_box",TRUE,"ok",8252026,FALSE,8253026

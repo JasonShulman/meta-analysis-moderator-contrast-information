@@ -1,0 +1,7 @@
+"family_id","profile","profile_label","F_I","delta_P_H_0.10","power_0.10_tau_0.05","power_0.10_tau_0.12","power_0.10_tau_0.20","power_0.10_tau_0.30","var_tau_0.05","var_tau_0.12","var_tau_0.20","var_tau_0.30","pred_power_tau_0.05","pred_power_tau_0.12","pred_power_tau_0.20","pred_power_tau_0.30","I_C_H_star_tau_0.05","I_C_H_star_tau_0.30","delta_P_emp_0.10","signed_sensitivity_error","abs_sensitivity_error"
+1,1,"low_I_C_S_balanced_contrast_support",0.841578724605678,0.450847906392342,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,2,"moderate_I_C_S_balanced_contrast_support",0.891806862191548,0.72553589011492,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,3,"high_I_C_S_balanced_contrast_support",0.916387265943025,0.648935384357166,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,4,"high_I_C_S_poor_contrast_balance",0.860725970915126,0.585262290888484,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,5,"high_I_C_S_bottleneck_support",0.906154642704414,0.73506194511359,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,6,"high_I_C_S_strong_alignment",0.90345141903371,0.677222431857372,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

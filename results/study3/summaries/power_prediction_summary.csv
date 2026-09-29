@@ -1,0 +1,2 @@
+"variant_id","method","target","n","rmse","mae","mean_signed_error","median_ape","spearman","max_abs_error","calibration_intercept","calibration_slope","r2"
+"sampling_rho_0.50","mlma_cr2","empirical_power",300,0.467034874447542,0.370635232920194,0.364806636155036,0.948642544168925,0.804510883267521,0.920935287727202,-0.106219321389117,0.684232855258336,0.326364609738073

@@ -1,0 +1,19 @@
+Package: MetaAnalysisPowerReproducibility
+Type: Project
+Title: Reproducibility Materials for Moderator-Contrast Information in Meta-Analysis
+Version: 1.0.0
+Authors@R: person("Jason", "Shulman", role = c("aut", "cre"))
+Description: Simulation code, frozen scenario libraries, and archived production summaries for the paper How Much Information Supports a Moderator Contrast? A Framework for Meta-Analysis With Dependent Effects. Run the scripts with Rscript. This directory is not installed as an R package.
+License: MIT
+Production-R-Version: 4.6.1
+Imports:
+    metafor,
+    clubSandwich,
+    MASS,
+    future,
+    future.apply,
+    withr,
+    digest,
+    ggplot2,
+    grid
+Encoding: UTF-8

@@ -1,0 +1,56 @@
+"table_kind","regime","tau_plan","omega_plan","rho_plan","n_scenarios","n_rows","mean_I_C_star","mean_predicted_power_0.10","aggregation","quantity_type","not_a_confidence_or_prediction_interval"
+"grid_cell","practical_tau_omega",0,0,0.5,120,120,21960.7121334542,0.902096665670353,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0,0.1,0.5,120,120,11564.6189226446,0.861025412810457,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0,0.2,0.5,120,120,5514.97060899579,0.75457290520891,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0,0.3,0.5,120,120,3077.07139506123,0.613775620984784,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.05,0,0.5,120,120,9665.42978240836,0.852951929798061,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.05,0.1,0.5,120,120,7069.13511696607,0.813892049004509,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.05,0.2,0.5,120,120,4231.19443038107,0.708965619086439,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.05,0.3,0.5,120,120,2627.74325842494,0.578801721739208,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.1,0,0.5,120,120,4128.53810533507,0.725200161755175,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.1,0.1,0.5,120,120,3568.22845581384,0.687214082936876,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.1,0.2,0.5,120,120,2634.45453637905,0.597323075356691,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.1,0.3,0.5,120,120,1888.3566392503,0.493971195787507,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.15,0,0.5,120,120,2197.19147640963,0.553942156850864,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.15,0.1,0.5,120,120,2024.50687851297,0.527701637406111,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.15,0.2,0.5,120,120,1670.35295939548,0.466364499655583,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.15,0.3,0.5,120,120,1321.02887993671,0.395929708252595,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.2,0,0.5,120,120,1343.32032285424,0.405401602329924,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.2,0.1,0.5,120,120,1275.51996029921,0.39044235696887,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.2,0.2,0.5,120,120,1119.36141568313,0.354240250566545,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.2,0.3,0.5,120,120,943.44528261657,0.310881231277942,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.25,0,0.5,120,120,899.384110364268,0.301022786387933,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.25,0.1,0.5,120,120,868.032113938956,0.292895084364581,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.25,0.2,0.5,120,120,790.486892591166,0.272395892650782,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.25,0.3,0.5,120,120,694.975475537128,0.246505629283787,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.3,0,0.5,120,120,641.642370351828,0.232153648312731,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.3,0.1,0.5,120,120,625.350614032524,0.227635718049964,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.3,0.2,0.5,120,120,583.129053501093,0.215831125665735,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","practical_tau_omega",0.3,0.3,0.5,120,120,527.748130651707,0.200181743079287,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0,0.15,0.2,120,120,9868.08446206145,0.856139178156265,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0,0.15,0.8,120,120,6592.57881062683,0.780356125134654,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.05,0.15,0.2,120,120,6418.63804620793,0.8056195157968,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.05,0.15,0.8,120,120,4832.48650984677,0.735400282698164,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.1,0.15,0.2,120,120,3400.74829578449,0.675792213618212,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.1,0.15,0.8,120,120,2858.93695204609,0.620598674822741,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.15,0.15,0.2,120,120,1970.36229669408,0.519108280826988,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.15,0.15,0.8,120,120,1760.18279347097,0.482512201105648,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.2,0.15,0.2,120,120,1253.78200450401,0.385454296350044,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.2,0.15,0.8,120,120,1160.10505789415,0.363873537670056,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.25,0.15,0.2,120,120,857.813636917979,0.290188815101198,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.25,0.15,0.8,120,120,811.094418738422,0.277891437680105,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.3,0.15,0.2,120,120,619.968300024136,0.22613752071678,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"grid_cell","rho_sensitivity",0.3,0.15,0.8,120,120,594.499130731039,0.219013709827606,"mean over 120 scenarios at this planning cell","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0,NA,NA,120,480,10529.3432650389,0.782867651168626,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0.05,NA,NA,120,480,5898.37564704511,0.738652829907054,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0.1,NA,NA,120,480,3054.89443419457,0.625927128959063,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0.15,NA,NA,120,480,1803.27004856369,0.485984500541288,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0.2,NA,NA,120,480,1170.41174536329,0.36524136028582,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0.25,NA,NA,120,480,813.219648107879,0.278204848171771,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_tau","practical_tau_omega",0.3,NA,NA,120,480,594.467542134288,0.218950558776929,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_omega","practical_tau_omega",NA,0,NA,120,840,5833.7454715968,0.567538421586435,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_omega","practical_tau_omega",NA,0.1,NA,120,840,3856.48458031545,0.54297233450591,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_omega","practical_tau_omega",NA,0.2,NA,120,840,2363.42141384668,0.481384766884383,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_omega","practical_tau_omega",NA,0.3,NA,120,840,1582.90986592551,0.405720978629301,"mean over scenarios and the other planning factors in practical_tau_omega","design_only_predicted",TRUE
+"marginal_rho","rho_sensitivity",NA,NA,0.2,120,840,3484.1995774563,0.536919974366612,"mean over scenarios and the other planning factors in rho_sensitivity","design_only_predicted",TRUE
+"marginal_rho","rho_sensitivity",NA,NA,0.8,120,840,2658.55481047918,0.497092281276996,"mean over scenarios and the other planning factors in rho_sensitivity","design_only_predicted",TRUE
