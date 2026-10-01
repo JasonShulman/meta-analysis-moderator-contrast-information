@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the software release and the accompanying article."
+authors:
+  - family-names: "Shulman"
+    given-names: "Jason"
+
+title: "Reproducibility materials for How Much Information Supports a Moderator Contrast? A Framework for Meta-Analysis With Dependent Effects"
+version: 1.0.1
+date-released: 2026-10-01
+license: MIT
